@@ -1,3 +1,9 @@
+Name : Gauri Hanumant Rasal
+Company : CODTECH IT SOLUTIONS
+ID : CTO8EHQ
+Domain : SQL
+Duration : DEC 2024 to JAN 2025
+Mentor : Harish Neelam
 # Employee Database Management System
 
 ## Overview
